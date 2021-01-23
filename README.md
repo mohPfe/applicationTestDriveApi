@@ -1,5 +1,5 @@
 # Informations
-L'application est une application test pour l'utilisation de l'API Google Drive ansi que l'integration avec le Google Drive UI. L'application implemente un navigateur de fichiers simple qui supporte la navigation entre dossiers dans arborescence du drive, la copie et la colle, l'upload et le telechargement, la suppression et l'envoi à la poubelle de fichier. L'integration avec le Google Drive UI permet de creer ansi que d'ouvrir des fichiers texte (.txt) avec l'application et modifier leur contenu, puis enregistrer les modifications sur Google Drive.
+L'application est une application test pour l'utilisation de l'API Google Drive ansi que l'integration avec le Google Drive UI. L'application implemente un navigateur de fichiers simple qui supporte la navigation entre dossiers dans arborescence du drive, la copie et la colle, l'upload et le telechargement, la suppression et l'envoi à la poubelle de fichier. L'integration avec le Google Drive UI permet de creer ansi que d'ouvrir des fichiers texte (.txt) avec l'application et modifier leur contenu, puis enregistrer les modifications sur Google Drive. L'authentification et la déconnexion est géré avec le protocole d'authontification OAuth 2.0
 
 Ci-dessous est le fichier README par défaut fourni par le framework svelte
 
